@@ -1,0 +1,101 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "binarySearch",
+      "request": "launch",
+      "mainClass": "binarySearch",
+      "projectName": "arraylist_adc818bf"
+    },
+    {
+      "type": "java",
+      "name": "Search",
+      "request": "launch",
+      "mainClass": "Search",
+      "projectName": "arraylist_adc818bf"
+    },
+    {
+      "type": "java",
+      "name": "signedInteger",
+      "request": "launch",
+      "mainClass": "signedInteger",
+      "projectName": "arraylist_adc818bf"
+    },
+    {
+      "type": "java",
+      "name": "Palindrome",
+      "request": "launch",
+      "mainClass": "Palindrome",
+      "projectName": "arraylist_adc818bf"
+    },
+    {
+      "type": "java",
+      "name": "maxVal",
+      "request": "launch",
+      "mainClass": "maxVal",
+      "projectName": "arraylist_adc818bf"
+    },
+    {
+      "type": "java",
+      "name": "swap",
+      "request": "launch",
+      "mainClass": "swap",
+      "projectName": "arraylist_adc818bf"
+    },
+    {
+      "type": "java",
+      "name": "arraylist",
+      "request": "launch",
+      "mainClass": "arraylist",
+      "projectName": "arraylist_adc818bf"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "Solution",
+      "projectName": "arraylist_adc818bf"
+    },
+    {
+      "type": "java",
+      "name": "petals1",
+      "request": "launch",
+      "mainClass": "petals1",
+      "projectName": "arraylist_adc818bf"
+    },
+    {
+      "type": "java",
+      "name": "petals",
+      "request": "launch",
+      "mainClass": "petals",
+      "projectName": "arraylist_adc818bf"
+    },
+    {
+      "type": "java",
+      "name": "CircularQueue",
+      "request": "launch",
+      "mainClass": "CircularQueue",
+      "projectName": "arraylist_adc818bf"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": false,
+      "cwd": "/home/Neeraj/GitDemo/GitDemo/Java/arraylist",
+      "program": "/home/Neeraj/GitDemo/GitDemo/Java/arraylist/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
