@@ -1,14 +1,132 @@
-nav{
-    background-color: red;
+.container{
+    display: grid;
+    justify-self:stretch;
+    
+}
+   
+.common{
+    grid-template-columns: none;
+}
+
+.container2{
+    
+    display : inline-flex;  
+    flex-direction: row;
+
+}
+
+.container3{
+    display: flex;
+}
+
+.container3{
+    display:flex;
+}
+
+.container4{
+    display: flex;
+}
+
+.box1{
     justify-content: center;
-    width: 100%;
-    text-decoration: none;
+    background-color:blueviolet;
+    text-align: center;
+    width: 50%;
+    margin: 2px;
+    flex-wrap: nowrap;
+    
+
+}
+.box2{
+    width: 50%;
+   margin: 2px;;
+    background-color:rgb(43, 211, 226);
+    text-align: center;
+}
+.box3{
+    background-color:rgb(226, 214, 43);
+    width: 30%;
+    margin:2px;
+    text-align: center;
+}
+.box4{
+    background-color:rgb(226, 43, 43);
+    width: 70%;
+    margin:2px;
+    text-align: center;
+}
+.box5{
+    background-color:rgb(35, 35, 103);
+    width: 25%;
+    text-align: center;
+}
+.box6{
+    background-color:rgb(226, 43, 171);
+    width: 25%;
+    text-align: center;
+    
+    
+
+}
+.box7{
+    background-color:rgb(112, 120, 70);
+    width: 25%;
+    text-align: center;
+
+}
+.box8{
+    background-color:rgb(23, 173, 0);
+    width: 25%;
+    text-align: center;
+
+}
+
+.nav{
+    background-color: rgb(40, 39, 39);
+    text-align: center;
+}
+.nav p{
+    color: rgb(235, 235, 224);
+}
+
+
+
+.card1{
+
+    background-color: aquamarine;
+    width: 50%;
+    padding :25px;
+    margin:10px;
+    
+    height: 100%;
+    text-align: center;
+    align-items: center;
+
+    border-radius: 20px;
+   
+}
+
+.card2{
+
+    background-color: aquamarine;
+    width: 50%;
+    padding :25px;
+    margin:10px;
+    
+    height: 100%;
+    text-align: center;
+    align-items: center;
+    border-radius: 20px;
     
 }
 
-a{
-    text-decoration: none;
-    text-transform: capitalize;
-
+.footer{
+    margin-top: 75px;
+    background-color: rgb(40, 39, 39);
+    text-align: center;
+    padding: 25px;
 }
 
+.footer p{
+    color: rgb(235, 235, 224);
+}
