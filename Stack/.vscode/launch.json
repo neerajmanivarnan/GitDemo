@@ -1,0 +1,31 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "stack",
+      "request": "launch",
+      "mainClass": "stack",
+      "projectName": "Stack_7ea92cf3"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "java",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": false,
+      "cwd": "/home/Neeraj/GitDemo/GitDemo/Stack",
+      "program": "/home/Neeraj/GitDemo/GitDemo/Stack/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
